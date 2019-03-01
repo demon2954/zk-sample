@@ -15,6 +15,7 @@
 		<module>zk-sample-consumer</module>
 		<module>zk-sample-provider</module>
 		<module>zk-sample-parent</module>
+		<module>zk-sample-dto</module>
 	</modules>
 
 
